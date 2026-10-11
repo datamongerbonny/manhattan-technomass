@@ -1,0 +1,15 @@
+# Input data is downloaded by the script; too large for GitHub
+nyc_buildings_manhattan.geojson
+nyc_buildings_manhattan.geojson.part
+boroughs.geojson
+payload.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
