@@ -1,0 +1,6 @@
+samples,average_m3_ha,min_m3_ha,max_m3_ha
+Squared small,192720,57683,599327
+Squared big,183498,68175,528702
+Circular (all),162661,22570,684691
+Circular transect,217648,36151,621691
+Total average,189132,46145,608603
